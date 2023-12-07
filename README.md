@@ -20,6 +20,4 @@ Todo:
 
 Get URL instead of IP
 
-Do not require passwords
-
-Run on server somehow idk you can't do Linux so figure it out
+Run on cloud somehow idk you can't do Linux so figure it out

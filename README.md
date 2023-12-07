@@ -4,6 +4,7 @@ this runs the program as soon as user connects and disconnects them immediately
 when it ends (should not let them sus about).
 
 Todo:
+
 Get URL instead of IP
 
 Do not require passwords

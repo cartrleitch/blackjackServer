@@ -20,4 +20,4 @@ Todo:
 
 Get URL instead of IP
 
-Run on cloud somehow idk you can't do Linux so figure it out
+Run on raspberry pi or something somehow idk you can't do Linux so figure it out
